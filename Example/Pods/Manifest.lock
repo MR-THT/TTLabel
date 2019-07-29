@@ -1,0 +1,16 @@
+PODS:
+  - TTLabel (0.1.0)
+
+DEPENDENCIES:
+  - TTLabel (from `../`)
+
+EXTERNAL SOURCES:
+  TTLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TTLabel: 6277c950655dd67defa43e1ca16b24c545f58229
+
+PODFILE CHECKSUM: 74af44ddb5666d222fbe02cef4a1745017978348
+
+COCOAPODS: 1.6.1

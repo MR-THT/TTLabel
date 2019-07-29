@@ -1,0 +1,6 @@
+framework module TTLabel {
+  umbrella header "TTLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
