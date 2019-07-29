@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'TTLabel_Example' do
+  pod 'TTLabel', :path => '../'
+
+  target 'TTLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
